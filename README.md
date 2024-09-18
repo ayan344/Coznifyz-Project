@@ -1,12 +1,5 @@
 # Coznifyz-Project
-Data Science Project-Restaurant Aggregate Rating prediction
-
-
-
-
-
-
-
-kgfkgjimb,v,glfjuuyljm.,
-
-kjfg
+ This respository contains a data science project completed during the internship at Coznifyz.
+ Coznifyz:Restaurant Aggregate Rating Prediction.The project includes data preprocessing,exploratory data analysis,
+ feature seection,feature engineering,model building,model evalution steps.
+ # project-Restaurant Aggregate Rating Prediction
